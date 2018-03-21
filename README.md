@@ -1,4 +1,4 @@
 # vandelay-industries
 Imports/Exports
 
-![](https://media.giphy.com/media/4QFer8KPZEkZ7qp9UV/giphy.gif)
+![alt text](https://github.com/sporting-innovations/vandelay-industries/blob/master/latex.gif)
